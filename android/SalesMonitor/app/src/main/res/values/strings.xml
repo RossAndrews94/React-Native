@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sales Monitor</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sign_out">Sign out</string>
+    <string name="email">Email</string>
+    <string name="passwd">Password</string>
+    <string name="reg_user">Regular User</string>
+    <string name="view_clients">View clients</string>
+    <string name="shop">shop</string>
+    <string name="add_shop">Add Shop</string>
+</resources>

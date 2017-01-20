@@ -7,7 +7,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.example.rossandrews.testa.MenuAfterLogin.*;
+import com.example.rossandrews.testa.database.Client;
 
 import static com.example.rossandrews.testa.MenuAfterLogin.clients;
 import static com.example.rossandrews.testa.R.id.receivedTextEmail2;
@@ -27,6 +27,7 @@ public class MyListActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState){
+        /*
         super.onCreate(savedInstanceState);
         setContentView(R.layout.my_list_activity);
 
@@ -61,5 +62,7 @@ public class MyListActivity extends AppCompatActivity {
                 finish();
             }
         });
+        */
     }
+
 }

@@ -33,6 +33,14 @@
         android:ems="10"
         android:id="@+id/textReceivedEmail" />
 
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text="Money"
+        android:ems="10"
+        android:id="@+id/textReceivedMoney" />
+
     <Button
         android:text="Save"
         android:layout_width="match_parent"

@@ -25,6 +25,10 @@
                 <action android:name="android.intent.action.MAIN" />
             </intent-filter>
         </activity>
+        <activity android:name=".activity.FireBaseAuthActivity"></activity>
+        <activity android:name=".activity.ClientListActivity"></activity>
+        <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
     </application>
+
 
 </manifest>

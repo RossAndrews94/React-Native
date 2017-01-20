@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "276153961018",
+    "firebase_url": "https://salesmonitor-31253.firebaseio.com",
+    "project_id": "salesmonitor-31253",
+    "storage_bucket": "salesmonitor-31253.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276153961018:android:05aa5d7ed630e26d",
+        "android_client_info": {
+          "package_name": "com.example.android.salesmonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276153961018-rqnvucbcik7m6abaolequhm0ess1eiuc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.salesmonitor",
+            "certificate_hash": "085F88381AC8858BFBB90805F511401E62991994"
+          }
+        },
+        {
+          "client_id": "276153961018-pl11cuhorrf586no4ruihnrrlnbknjue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa2m9C9grl7g6-tWNmBnSwEjIc3pKgKwk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276153961018-pl11cuhorrf586no4ruihnrrlnbknjue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276153961018:android:67f7e6a572eebe18",
+        "android_client_info": {
+          "package_name": "com.example.android.salessmonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276153961018-pt00cm16tdvaf3591hqdt0i5rdn4gfhm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.salessmonitor",
+            "certificate_hash": "085F88381AC8858BFBB90805F511401E62991994"
+          }
+        },
+        {
+          "client_id": "276153961018-pl11cuhorrf586no4ruihnrrlnbknjue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa2m9C9grl7g6-tWNmBnSwEjIc3pKgKwk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276153961018-pl11cuhorrf586no4ruihnrrlnbknjue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
